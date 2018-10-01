@@ -8,16 +8,16 @@
     "url": "git://github.com/skomski/node-pagerduty.git"
   },
   "main": "./index",
-  "scripts" : {
-    "test" : "coffee test/test-PagerDuty.coffee"
+  "scripts": {
+    "test": "coffee test/test-PagerDuty.coffee"
   },
   "engines": {
     "node": "*"
   },
   "dependencies": {
-    "request": "~2.9.3"
+    "request": "~2.88.0"
   },
   "devDependencies": {
-    "coffee-script": "~1.2.0"
+    "coffee-script": "~1.12.7"
   }
 }
